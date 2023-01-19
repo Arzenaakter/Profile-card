@@ -1,0 +1,23 @@
+body{
+    background-color: #DDDCDD;
+}
+.card{
+ 
+    background-color: #DDDCDD;
+ 
+}
+
+.img-1{
+    
+    height: 280px;
+    position: relative;
+}
+.img-2{
+    position: absolute;
+   top: 230px;
+   
+
+}
+header, footer{
+    background: linear-gradient(to right, #181ccf,#800baa);
+}
